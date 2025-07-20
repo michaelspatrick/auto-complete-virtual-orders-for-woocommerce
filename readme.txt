@@ -4,7 +4,7 @@ Tags: woocommerce, virtual products, auto complete, downloadable products, order
 Requires at least: 5.0
 Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 1.1
+Stable tag: 1.0
 License: GPLv2 or later
 
 Automatically completes WooCommerce orders that contain only virtual and/or downloadable products.
