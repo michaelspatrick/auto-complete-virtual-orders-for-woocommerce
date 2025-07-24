@@ -5,6 +5,7 @@
  * Version: 1.3
  * Author: Michael Patrick
  * License: GPLv2 or later
+ * Requires Plugins: woocommerce
  */
 
 add_action('plugins_loaded', 'acvo_init_plugin');
